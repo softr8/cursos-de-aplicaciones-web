@@ -39,6 +39,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
     * Method missing
 	* Define method
 	* Monkey Patching
+  * IRB
   
   
 ## RubyGems
@@ -89,6 +90,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
     * Haml
 	* View Partials
 	* Paginaciones
+	* Twitter bootstrap
   * Performance
     * Cache Storage
     * Memcached
@@ -112,6 +114,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
     * Resque
   * Vistas
 	* Formas con Ajax
+  * Rails Engines
   * Autenticación
     * Roles
 	* Via terceros, facebook, github, twitter
@@ -201,5 +204,5 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
   * PENDING
  
 ## NoSQL
-* PENDING
+  * PENDING
   
