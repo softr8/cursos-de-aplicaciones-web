@@ -1,4 +1,4 @@
-Curso de desarrollo de aplicaciones web con Ruby - Work in progress
+Full stack Ruby Developer, curricula
 ==========================
 
 # Control de versiones
