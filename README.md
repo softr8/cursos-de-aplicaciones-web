@@ -10,37 +10,14 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 	* Tags
   * Github
 
-# Infraestructura
-  * Nginx, servidor web
-  * SSL
-  * CDN
-  * Balancing
-  * Proxy
-  * S3
+# Lenguaje de programación Ruby.
 
-# Patrones de diseño
-  * MVC
-  * Observer
-  * Factory
-  * Bus messaging
-  * Adapter
-  * Presenters/Decorators
-  * Queues
-  * Reactor Pattern
-  * REST
-
-# Estilo de Codificación
-  * Ruby
-  * Javascript
-  * Html
-  * CSS
-
-
-# Lenguaje de programación Ruby
 ## rbenv
   * Instalación
+
 ## rvm
   * Instalación
+
 ## Lenguaje Ruby
   * Hello world
   * Inicios del lenguaje ruby
@@ -77,18 +54,26 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
   * Migraciones
   * Vistas con formas, parciales y helpers
   * Patron de diseño RESTful
+  * Modelos
+    * Relaciones
+	* Validaciones
+	* Consultas
   * Uso de gemas
   * Assets pipeline
+  * Testing
+    * Pruebas de unidad
+  * Environments
+    * Configuracion de rails
+	
 ## Intermedio 
   * Testing
-    * Pruebas de Unidad
 	* Pruebas de Integracion
 	* Fixtures
 	* Cobertura de pruebas
   * Modelos
-    * Relaciones entre modelos
+    * Consultas Avanzadas
     * Polimorfismo
-    * Validaciones
+    * Callbacks
     * Transacciones 
   *  Controladores 
     * Parametros
@@ -107,6 +92,8 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 	* Fragment Cache
   * Autenticación
     * Devise
+  * CDN
+  * Emails
 ## Avanzado
   * API's
     * Exponiendo una API
@@ -116,6 +103,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 	* Page Cache
 	* Sweepers
 	* Expirators
+	* Counter Caches
   * Background jobs
     * Resque
   * Autenticación
@@ -130,25 +118,52 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 	* Redis
   * Capistrano
   
+# Tópicos Recomendados
 
-# Service Oriented Design in Ruby
+# Infraestructura
+  * Nginx, servidor web
+  * SSL
+  * CDN
+  * Balancing
+  * Proxy
+  * S3
 
-# CoffeeScript
+# Patrones de diseño
+  * MVC
+  * Observer
+  * Factory
+  * Bus messaging
+  * Adapter
+  * Presenters/Decorators
+  * Queues
+  * Reactor Pattern
+  * REST
+
+# Estilo de Codificación
+  * Ruby
+  * Javascript
+  * Html
+  * CSS
+
+
+## Service Oriented Design in Ruby
+
+## CoffeeScript
   * Escribiendo javascript a la ruby
 
  
-# CSS
+## CSS
   * less*
   * Compass
   * Sass
   * Twitter boostrap
 
-# Backbone
+## Backbone
 
-# Sistemas en tiempo real
-## Pusher
+## Sistemas en tiempo real
+### Pusher
   * PENDING
  
-# NoSQL
+## NoSQL
 * PENDING
   
