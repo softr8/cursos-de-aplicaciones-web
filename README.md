@@ -17,6 +17,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 
 ## rvm
   * Instalación
+  * gemsets
 
 ## Lenguaje Ruby
   * Hello world
@@ -53,6 +54,10 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
   * Sistema de Rutas
   * Migraciones
   * Vistas con formas, parciales y helpers
+  * Controladores
+    * Parametros
+	* Mensajes de Errores
+	* HTTP Error Codes
   * Patron de diseño RESTful
   * Modelos
     * Relaciones
@@ -76,9 +81,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
     * Callbacks
     * Transacciones 
   *  Controladores 
-    * Parametros
 	* Filtros
-	* Mensajes de Errores
 	* Mensajes flash
 	* Redirecciones
 	* Sessiones
@@ -94,6 +97,7 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
     * Devise
   * CDN
   * Emails
+  
 ## Avanzado
   * API's
     * Exponiendo una API
@@ -106,6 +110,8 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
 	* Counter Caches
   * Background jobs
     * Resque
+  * Vistas
+	* Formas con Ajax
   * Autenticación
     * Roles
 	* Via terceros, facebook, github, twitter
@@ -119,7 +125,28 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
   * Capistrano
   
 # Tópicos Recomendados
+# Desarrollo Agil
+### Inception Meetings
+  * Escribir historias
+  * Casos de uso
+  * Prioridades
+  
+### Sprint Planner
+  * Current
+  * Backlog
+  * Icebox
+  
+### Standups
+  * Tres preguntas básicas
+  
+### Retrospective Meetings
+  * Stop Doing
+  * Start Doing
+  * Continue Doing
 
+# Code Retreat
+  * Todo un dia dedicado a aprender buenas practias de TDD
+  
 # Infraestructura
   * Nginx, servidor web
   * SSL
@@ -145,21 +172,30 @@ Curso de desarrollo de aplicaciones web con Ruby - Work in progress
   * Html
   * CSS
 
+# Javascript
+  * jQuery
+  * jQuery-UI
+  * Ajax
+  * Namespaces
+  * Funciones anónimas
+  * Integracion con rails
+  * Selectores
 
 ## Service Oriented Design in Ruby
+  * Aplicando patrón de diseño subscriber/publisher en rails
+  * Seguridad
 
 ## CoffeeScript
   * Escribiendo javascript a la ruby
 
- 
 ## CSS
   * less*
-  * Compass
   * Sass
   * Twitter boostrap
 
 ## Backbone
-
+  * PENDING
+  
 ## Sistemas en tiempo real
 ### Pusher
   * PENDING
